@@ -19,4 +19,4 @@ a:active{color:#000}
 ::-moz-selection{background:#ccc}
 ::selection{background:#ccc}
 #gravatar{position:relative;float:right;margin-bottom:1em;margin-left:1em;border:1px solid #ddd}
-@media all and (max-width:700px){article, footer{margin:0 auto;width: auto}body{font-size:1em}}
+@media all and (max-width:700px){article{margin:0 auto;width: auto}body,footer{font-size:1em}}
